@@ -1,0 +1,11 @@
+/Users/comertoast/udemy_c#/conditional_exercises/LandscapeOrPortrait/bin/Debug/netcoreapp2.0/LandscapeOrPortrait.deps.json
+/Users/comertoast/udemy_c#/conditional_exercises/LandscapeOrPortrait/bin/Debug/netcoreapp2.0/LandscapeOrPortrait.runtimeconfig.json
+/Users/comertoast/udemy_c#/conditional_exercises/LandscapeOrPortrait/bin/Debug/netcoreapp2.0/LandscapeOrPortrait.runtimeconfig.dev.json
+/Users/comertoast/udemy_c#/conditional_exercises/LandscapeOrPortrait/bin/Debug/netcoreapp2.0/LandscapeOrPortrait.dll
+/Users/comertoast/udemy_c#/conditional_exercises/LandscapeOrPortrait/bin/Debug/netcoreapp2.0/LandscapeOrPortrait.pdb
+/Users/comertoast/udemy_c#/conditional_exercises/LandscapeOrPortrait/obj/Debug/netcoreapp2.0/LandscapeOrPortrait.csprojResolveAssemblyReference.cache
+/Users/comertoast/udemy_c#/conditional_exercises/LandscapeOrPortrait/obj/Debug/netcoreapp2.0/LandscapeOrPortrait.csproj.CoreCompileInputs.cache
+/Users/comertoast/udemy_c#/conditional_exercises/LandscapeOrPortrait/obj/Debug/netcoreapp2.0/LandscapeOrPortrait.AssemblyInfoInputs.cache
+/Users/comertoast/udemy_c#/conditional_exercises/LandscapeOrPortrait/obj/Debug/netcoreapp2.0/LandscapeOrPortrait.AssemblyInfo.cs
+/Users/comertoast/udemy_c#/conditional_exercises/LandscapeOrPortrait/obj/Debug/netcoreapp2.0/LandscapeOrPortrait.dll
+/Users/comertoast/udemy_c#/conditional_exercises/LandscapeOrPortrait/obj/Debug/netcoreapp2.0/LandscapeOrPortrait.pdb

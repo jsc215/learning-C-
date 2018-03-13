@@ -1,0 +1,11 @@
+/Users/comertoast/udemy_c#/conditional_exercises/RadarGun/bin/Debug/netcoreapp2.0/RadarGun.deps.json
+/Users/comertoast/udemy_c#/conditional_exercises/RadarGun/bin/Debug/netcoreapp2.0/RadarGun.runtimeconfig.json
+/Users/comertoast/udemy_c#/conditional_exercises/RadarGun/bin/Debug/netcoreapp2.0/RadarGun.runtimeconfig.dev.json
+/Users/comertoast/udemy_c#/conditional_exercises/RadarGun/bin/Debug/netcoreapp2.0/RadarGun.dll
+/Users/comertoast/udemy_c#/conditional_exercises/RadarGun/bin/Debug/netcoreapp2.0/RadarGun.pdb
+/Users/comertoast/udemy_c#/conditional_exercises/RadarGun/obj/Debug/netcoreapp2.0/RadarGun.csprojResolveAssemblyReference.cache
+/Users/comertoast/udemy_c#/conditional_exercises/RadarGun/obj/Debug/netcoreapp2.0/RadarGun.csproj.CoreCompileInputs.cache
+/Users/comertoast/udemy_c#/conditional_exercises/RadarGun/obj/Debug/netcoreapp2.0/RadarGun.AssemblyInfoInputs.cache
+/Users/comertoast/udemy_c#/conditional_exercises/RadarGun/obj/Debug/netcoreapp2.0/RadarGun.AssemblyInfo.cs
+/Users/comertoast/udemy_c#/conditional_exercises/RadarGun/obj/Debug/netcoreapp2.0/RadarGun.dll
+/Users/comertoast/udemy_c#/conditional_exercises/RadarGun/obj/Debug/netcoreapp2.0/RadarGun.pdb
